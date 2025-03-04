@@ -1,0 +1,1 @@
+java -classpath "path/to/classes;path/to/dependencies/*" -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.2.4\lib\idea_rt.jar=3532 -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 com.example.SpringbootApplication
